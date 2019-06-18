@@ -10,7 +10,7 @@ namespace Addition
     {
         static void Main(string[] args)
         {
-            int a = 5, b = 10;
+            int a = 15, b = 10;
             Console.WriteLine(a + b);
             Console.ReadKey();
         }
